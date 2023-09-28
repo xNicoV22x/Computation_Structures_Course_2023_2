@@ -1,0 +1,10 @@
+17:44:21 **** Incremental Build of configuration Debug for project Computation_Structure_2023_2 ****
+make -j4 all 
+arm-none-eabi-size   Computation_Structure_2023_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13444	     20	   1716	  15180	   3b4c	Computation_Structure_2023_2.elf
+Finished building: default.size.stdout
+ 
+
+17:44:21 Build Finished. 0 errors, 0 warnings. (took 428ms)
+
